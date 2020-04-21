@@ -59,7 +59,7 @@ while True:
                         sendMessage(s, "@"+ user + " " + CHANNEL + " is not live :(")
 
                 if "!notgamesbot" in message:
-                    sendMessage(s,"Hello I am The Not Games UK Twitch Bot v(0.3). I am currently in development at the moment. HOWEVER my source code is now available for free here:  If you want to know more you can always ask my creator Fluxcabury :)")
+                    sendMessage(s,"Hello I am The Not Games UK Twitch Bot v(0.3). I am currently in development at the moment. HOWEVER my source code is now available for free here: https://github.com/fluxcabury/NotGamesBot | If you want to know more you can always ask my creator Fluxcabury :)")
 
                 if "!commands" in message:
                     sendMessage(s,"Here is a list of the current avalible commands: !hello | !uptime | !commands | !notgamesbot |")
