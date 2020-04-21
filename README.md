@@ -22,11 +22,12 @@ Linix : Open the terminal and type: sudo apt install python-pip-dateutil
 # Planned Future updates
 - Update from the old Twitch API v5 to the new Twitch API
 - Auto fill in User ID
-- More features
+- GUI interface
 - Auto install and setup script
 - Making the bot more efficent
 - Twitch Chat plays. Adding the ability for twitch chat to controll the mouse and keyboard so they are able to play a game on stream
 - Twitch chat cinema. Users from the chat vote for a video and the video with the higest votes gets played
+- More features
 - Fix spelling mistakes (Im sorry)
 
 # Support me 
