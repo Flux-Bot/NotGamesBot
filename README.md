@@ -29,9 +29,3 @@ Linix : Open the terminal and type: sudo apt install python-pip-dateutil
 - Twitch chat cinema. Users from the chat vote for a video and the video with the higest votes gets played
 - More features
 - Fix spelling mistakes (Im sorry)
-
-# Support me 
-Hi I make stuff like this in my free time. If you whant to suport me by buying a cup of tea or paying my rent you can support me here : https://paypal.me/MarkWilliamson02?locale.x=en_GB
-
-(I hate asking But thank you for anything you can give. Even a virtual hug is greatly appreciated)
-:)
