@@ -15,7 +15,7 @@ headers = {
 }
 
 try:
-    response = requests.get('https://api.twitch.tv/kraken/streams/00000000', headers=headers)  #Replace 00000000 with the client ID of the channel you whant to connect to. This will be fixed in the futer to automaticly fill this in/
+    response = requests.get('https://api.twitch.tv/kraken/streams/00000000', headers=headers)  #Replace 00000000 with the cliant ID of the channel you whant to connect to. This will be fixed in the futer to automaticly fill this in
     data = response.json()
 except (KeyError, ValueError):
     print("Error - make sure your OAuth is formatted correctly")
@@ -56,5 +56,9 @@ def uptime():
     ends = datetime.datetime.strptime(b, '%Y-%m-%d %H:%M:%S')
 
     diff = relativedelta(start, ends)
-    TimeDiff = ("%d days %d hours %d minutes %d seconds" % (diff.days, diff.hours, diff.minutes, diff.seconds))
+    days = ("%d days" % diff.days)
+    hours = (" %d hours" % (diff.hours))
+    mins = (" %d minutes" % (diff.minutes))
+    sec = (" %d seconds" % (diff.seconds))
+    TimeDiff = ("%d days %d hours %d minutes %d seconds" % (diff.days, diff.hours -1, diff.minutes, diff.seconds))
     return TimeDiff
