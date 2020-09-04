@@ -3,9 +3,7 @@ This is a fully customizable twitch bot that can interact with the Twitch chat a
 
 # Installing the bot
 1. Install python 3.8.2 (64bit) with PIP (https://www.python.org/downloads/release/python-382/)
-2. Windows: Open Command Prompt and type: pip install python-dateutil
-
-Linix : Open the terminal and type: sudo apt install python-pip-dateutil
+2. Dubble click on the file Install.bat (This will install all the reqwired pip packets)
 
 # Setting up the bot
 1. Register Your Application on twitch (https://dev.twitch.tv/console/apps/create)
