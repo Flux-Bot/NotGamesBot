@@ -18,12 +18,7 @@ This is a fully customizable twitch bot that can interact with the Twitch chat a
 10. on line 18 Replace 00000000 with the user ID of the channle you what to connect to (https://chrome.google.com/webstore/detail/twitch-username-and-user/laonpoebfalkjijglbjbnkfndibbcoon/related) This will automaticly be done in a future update
 
 # Planned Future updates
-- Update from the old Twitch API v5 to the new Twitch API
-- Auto fill in User ID
-- GUI interface
-- Auto install and setup script
-- Making the bot more efficent
-- Twitch Chat plays. Adding the ability for twitch chat to controll the mouse and keyboard so they are able to play a game on stream
-- Twitch chat cinema. Users from the chat vote for a video and the video with the higest votes gets played
-- More features
-- Fix spelling mistakes (Im sorry)
+- A big update is comming soon!!! 
+- A cool new name
+- Maybe a server that hosts the bot and all you have to do it press a buttion for it to join.
+This virsion has not been updated compered to the Offical Not Games Bot that runs on the NotGamesUK twitch channle 
