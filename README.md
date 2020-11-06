@@ -21,4 +21,5 @@ This is a fully customizable twitch bot that can interact with the Twitch chat a
 - A big update is comming soon!!! 
 - A cool new name
 - Maybe a server that hosts the bot and all you have to do it press a buttion for it to join.
+
 This virsion has not been updated compered to the Offical Not Games Bot that runs on the NotGamesUK twitch channle 
